@@ -1,0 +1,7 @@
+c:\users\diego\documents\visual studio 2015\Projects\TreinamentoC\TreinamentoC\bin\Debug\TreinamentoC.exe.config
+c:\users\diego\documents\visual studio 2015\Projects\TreinamentoC\TreinamentoC\bin\Debug\TreinamentoC.exe
+c:\users\diego\documents\visual studio 2015\Projects\TreinamentoC\TreinamentoC\bin\Debug\TreinamentoC.pdb
+c:\users\diego\documents\visual studio 2015\Projects\TreinamentoC\TreinamentoC\obj\Debug\TreinamentoC.exe
+c:\users\diego\documents\visual studio 2015\Projects\TreinamentoC\TreinamentoC\obj\Debug\TreinamentoC.pdb
+c:\users\diego\documents\visual studio 2015\Projects\TreinamentoC\TreinamentoC\bin\Debug\TreinamentoC.exe.CodeAnalysisLog.xml
+c:\users\diego\documents\visual studio 2015\Projects\TreinamentoC\TreinamentoC\bin\Debug\TreinamentoC.exe.lastcodeanalysissucceeded

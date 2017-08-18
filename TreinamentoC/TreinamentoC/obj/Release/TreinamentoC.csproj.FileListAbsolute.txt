@@ -1,0 +1,5 @@
+c:\users\diego\documents\visual studio 2015\Projects\TreinamentoC\TreinamentoC\bin\Release\TreinamentoC.exe.config
+c:\users\diego\documents\visual studio 2015\Projects\TreinamentoC\TreinamentoC\bin\Release\TreinamentoC.exe
+c:\users\diego\documents\visual studio 2015\Projects\TreinamentoC\TreinamentoC\bin\Release\TreinamentoC.pdb
+c:\users\diego\documents\visual studio 2015\Projects\TreinamentoC\TreinamentoC\obj\Release\TreinamentoC.exe
+c:\users\diego\documents\visual studio 2015\Projects\TreinamentoC\TreinamentoC\obj\Release\TreinamentoC.pdb
